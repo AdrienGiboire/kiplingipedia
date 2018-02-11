@@ -154,7 +154,29 @@ nav a:hover {
    Author's custom styles
    ========================================================================== */
 
+.full-screen {
+  background-color: #e44d26;
+  color: white;
+  text-align: center;
+}
 
+.full-screen .header-container {
+  box-shadow: none;
+}
+
+.full-screen .main article {
+  float: none;
+  width: 100%;
+}
+
+.full-screen .main article h1 {
+  font-size: 6em;
+}
+
+.full-screen p {
+  font-size: 4em;
+  line-height: 1.1em;
+}
 
 
 
